@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "gitAdd":"git add . && git commit . -m'Adding New Code' && git push"
+    "gitAdd":"git add . && git commit . -m\"Adding New Code\" && git push"
   },
   "keywords": [],
   "author": "",

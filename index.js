@@ -32,13 +32,7 @@ const myQuestions = [
         correctAnswer:"c"
     }
     ,
-    {question:"what is capital of india?",
-        answers:{
-            a:"paris",
-            b:"london",
-            c:"dilhi"
-        },
-        correctAnswer:"c"}
+   
 ]
 
 function buildQuiz(){
